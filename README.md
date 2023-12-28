@@ -1,4 +1,4 @@
-# ItuAiMaze
+# A* implementation for grid based maze
 
 ## How to use
 ### How to run
